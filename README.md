@@ -37,6 +37,7 @@ Make sure you have Go installed on your machine. You can download it from [the o
 |   |-- ...
 |-- README.md
 |-- .gitignore
+|-- go.work
 ```
 
 - **examples**: Contains simple code examples to understand specific concepts.
