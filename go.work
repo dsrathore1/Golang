@@ -3,4 +3,6 @@ use (
     "01Hello"
     "02Variables"
     "03UserInput"
+    "04Conversion"
+    "05AnyTime"
 )
