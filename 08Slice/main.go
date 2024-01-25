@@ -25,7 +25,7 @@ func main() {
 
 	//! Here, we will give both the point start and end.
 	fruitList = append(fruitList[:3]) //! Last range is always non inclusive
-	fmt.Println(fruitList)
+	fmt.Println("List from last three", fruitList)
 
 	//! Another way to make slice
 
@@ -51,4 +51,13 @@ func main() {
 
 	fmt.Println("This will tell slice is sorted or not by showing boolean value :-", sort.IntsAreSorted(highScores))
 
+	//! Remove a value from a slice based on index
+
+	var courses = []string{"JS", "Python", "Go", "Java"}
+	fmt.Println("\nYour slice values are :-", courses)
+	//? Let's remove value from slice
+
+	index := 2
+	courses = append(courses[:index], courses[index+1:]...)
+	fmt.Println("After successfully removed a value from your slice and now slice is :-", courses)
 }
