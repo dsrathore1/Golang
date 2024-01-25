@@ -9,4 +9,5 @@ use (
 	./06Pointers
 	./07Arrays
 	./08Slice
+	./09Functions
 )
