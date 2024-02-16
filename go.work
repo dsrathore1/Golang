@@ -10,4 +10,6 @@ use (
 	./07Arrays
 	./08Slice
 	./09Functions
+	./10Maps
+	./11Structs
 )

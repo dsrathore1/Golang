@@ -39,6 +39,36 @@ Make sure you have Go installed on your machine. You can download it from [the o
 |-- 05AnyTime/
 |   |   |-- go.mod
 |   |   |-- main.go
+|-- 06Pointers/
+|   |   |-- go.mod
+|   |   |-- main.go
+|-- 07Arrays/
+|   |   |-- go.mod
+|   |   |-- main.go
+|-- 08Slice/
+|   |   |-- go.mod
+|   |   |-- main.go
+|-- 09Functions/
+|   |   |-- go.mod
+|   |   |-- main.go
+|-- 10Maps/
+|   |   |-- go.mod
+|   |   |-- main.go
+|-- 11Structs/
+|   |   |-- go.mod
+|   |   |-- main.go
+|-- 12If-Else/
+|   |   |-- go.mod
+|   |   |-- main.go
+|-- 13SwitchCase/
+|   |   |-- go.mod
+|   |   |-- main.go
+|-- 14Loops/
+|   |   |-- go.mod
+|   |   |-- main.go
+|-- 15Methods/
+|   |   |-- go.mod
+|   |   |-- main.go
 |-- README.md
 |-- .gitignore
 |-- go.work
